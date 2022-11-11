@@ -7,3 +7,5 @@
 - You navigate the world with the mouse and WASD.
 - You can click to add blocks and Alt+Click to remove blocks.
 - You world is stored in your browsers local storage.
+
+![chrome_H6S29a7x8c](https://user-images.githubusercontent.com/62913154/201349423-6155db18-be5f-4954-8ecb-2dbff1965b3c.png)
